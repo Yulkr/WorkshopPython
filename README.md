@@ -2,7 +2,7 @@
 
 ### Где брать задания
 
-1. Репозитории https://github.com/Finuniversity/ADSPython.git    
+1. Репозитории https://github.com/Finuniversity/WorkshopPython.git    
 2. Папка Task    
 3. Файл Task.md    
 
